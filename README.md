@@ -22,6 +22,3 @@ This page provides the feature to Sign-Up for new customers and Login feature fo
 
 Well maintained Footer on each page conatining useful informations.
 
-## Hosting
-* Hosted on Github https://sonukushwaha-hub.github.io/OnlineShop/ 
-* Learn more about hosting on Github https://pages.github.com/
